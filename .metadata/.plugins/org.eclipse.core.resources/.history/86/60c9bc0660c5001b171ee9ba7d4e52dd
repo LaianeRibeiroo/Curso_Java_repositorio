@@ -1,0 +1,10 @@
+package Testes_executados_em_aulas;
+
+public class aulas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
