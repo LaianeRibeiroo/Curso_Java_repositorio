@@ -1,6 +1,6 @@
-package Testes_executados_em_aulas;
+package Application;
 
-public class aulas {
+public class Program {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
