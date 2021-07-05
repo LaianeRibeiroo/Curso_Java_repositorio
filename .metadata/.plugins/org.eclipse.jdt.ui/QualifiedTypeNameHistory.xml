@@ -6,7 +6,7 @@
     <fullyQualifiedTypeName name="entities.Employee"/>
     <fullyQualifiedTypeName name="entities.notas"/>
     <fullyQualifiedTypeName name="cauculator.CurrencyConverte"/>
+    <fullyQualifiedTypeName name="entities.conta"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="entities.conta"/>
 </qualifiedTypeNameHistroy>

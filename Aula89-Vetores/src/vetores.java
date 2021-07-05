@@ -18,9 +18,8 @@ public class vetores {
 	 double media = soma/n;
 			System.out.println("Média = " + media);
 		
-		
-		sc.close ();
+		  
+		sc.close (); 
 
 	}
-
 }
