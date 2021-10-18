@@ -18,7 +18,7 @@ public class application {
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
-		System.out.print("Enter department's name: ");
+		System.out.print("Enter department's name: "); //Entrada de dados
 		String departmentName = sc.nextLine();
 		System.out.println("Enter worker data:");
 		System.out.print("Name: ");
@@ -28,7 +28,7 @@ public class application {
 		System.out.print("Base salary: ");
 		double baseSalary = sc.nextDouble();
 		Worker worker = new Worker(workerName, WorkerLevel.valueOf(workerLevel), baseSalary, new Department(departmentName));
-		
+		// Instanciando o objeto passando os dados p/ a classe trabalhador. 
 		System.out.print("How many contracts to this worker? ");
 		int n = sc.nextInt();
 		
